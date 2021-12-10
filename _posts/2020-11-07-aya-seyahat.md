@@ -1,7 +1,7 @@
 ---
 modal-id: b1
 layout: post
-title:  "Yeşil Işık"
+title:  "Ay'a Seyahat"
 image: assets/img/book-img/aya-seyahat/a-seyehat.jpg
 author: "Jules Verne"
 barcode: 9789783817746

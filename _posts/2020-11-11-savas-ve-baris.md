@@ -2,7 +2,7 @@
 modal-id: b12
 layout: post
 title:  "Savaş ve Barış"
-image: assets/img/book-img/savas-ve-baris/s-baris.jpg
+image: assets/img/book-img/savas-ve-baris/savas-ve-baris.jpg
 author: "Charles Dickens"
 barcode: 9789783817746
 size: "21 x 12 cm"

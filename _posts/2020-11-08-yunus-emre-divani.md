@@ -2,7 +2,7 @@
 modal-id: b18
 layout: post
 title:  "Yunus Emre Divanı"
-image: assets/img/book-img/yuzen-sehir/yunus-emre-divani.jpg
+image: assets/img/book-img/yunus-emre-divani/yunus-emre-divani.jpg
 author: "Yunus Emre"
 barcode: 9786057490452
 size: "21 x 12 cm"

@@ -2,7 +2,7 @@
 modal-id: b17
 layout: post
 title:  "Sergüzeşt"
-image: assets/img/book-img/yuzen-sehir/sezguzest.jpg
+image: assets/img/book-img/sezguzest/sezguzest.jpg
 author: "Sami Paşazade Sezai"
 barcode: 9786057490414
 size: "19.5 x 13.5 cm"

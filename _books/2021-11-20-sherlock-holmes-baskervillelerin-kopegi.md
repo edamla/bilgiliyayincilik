@@ -12,7 +12,7 @@ previewpage: true
 # Book attributes
 ean: 9786057288738
 languages: ["Türkçe"]
-page: 80
+page: 180
 size: "12,5x19.2cm"
 publish-number: 12
 cover: "Karton"

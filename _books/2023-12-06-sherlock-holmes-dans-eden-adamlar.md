@@ -13,7 +13,7 @@ previewpage: true
 ean: 9786057274458
 languages: ["Türkçe"]
 page: 120
-size: "12.5x19.2cm"
+size: "12.5x19.1cm"
 publish-number: 23
 cover: "Karton"
 
@@ -32,11 +32,9 @@ damlayayinevi: "https://www.damlayayinevi.com.tr/sherlock-holmes-dans-eden-adaml
 
 # For adding excerpt add <!--more--> and break the line
 ---
-Hikâye, gezgin bir satıcı olan Gregor Samsa'nın uyanıp kendisini iri, çirkin böcek benzeri bir yaratığa dönüşmüş (başkalaşıma uğramış) olarak bulması ile başlar.
-Hikâyede Gregor'un dönüştüğü korkunç yaratık; bir taraftan onu iteleyen anne babasına ve kız kardeşine yük olmamak için uğraşırken, diğer taraftan yeni durumuna uyum sağlayabilmek için mücadele vermektedir.
-
-Dönüşüm, Franz Kafka'nın 1915'te yayımlanan bir romanıdır.
-20. yüzyılın ufuk açıcı kurgu eserlerinden biri olarak anılan ve Batı dünyasındaki kolejlerde ve üniversitelerde inceletilen bu eser; insanın yaşam içinde özgür olmakla özgür olduğunu sanmak ikilemi arasındaki sorgulamayı ele almaktadır.
+Bir gölge emekleyerek kapının önüne çömeldi. Tabancamı alıp dışarı fırlayacağım sırada karım boynuma sarılıp hareketimi engelledi. Korku ve heyecan, gücünü öyle arttırmıştı ki elinden kurtulamadım.
+Nihayet bütün gayretimi toplayıp karımı ittim, fırladım fakat ben kapıyı açıp çıkıncaya kadar adam kaçtı. Kulübenin kapısında yine aynı işaretleri gördüm. Bunlar size verdiklerimin aynısıydı.
+Her tarafı aradım. Hiçbir yerde bulamadım. Ama uzağa gitmediğini de ertesi sabah kapıda kopyaladığım işaretlerin hemen altına beş adam çizdiğini görünce anladım.”
 
 
 <!--more--> 

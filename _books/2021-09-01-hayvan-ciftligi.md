@@ -18,11 +18,11 @@ publish-number: 17
 cover: "Karton"
 
 # Buyout Ecommerce
-dnr: #""
+dnr: "https://www.dr.com.tr/kitap/hayvan-ciftligi/edebiyat/roman/dunya-roman/urunno=0002011732001"
 kitapyurdu: #""
 idefix: #""
 hepsiburada: #""
-trendyol: #""
+trendyol: "https://www.trendyol.com/pd/bilgili-yayincilik/hayvan-ciftligi-p-382807881?boutiqueId=61&merchantId=126218&filterOverPriceListings=false"
 gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
 odatvkitap: #"https://www.odatvkitap.com.tr"
 bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"

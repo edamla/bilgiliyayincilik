@@ -18,11 +18,11 @@ publish-number: 3
 cover: "Karton"
 
 # Buyout Ecommerce
-dnr: #""
+dnr: "https://www.dr.com.tr/kitap/savas-ve-baris/edebiyat/roman/dunya-klasik/urunno=0001960596001"
 kitapyurdu: #""
 idefix: #""
 hepsiburada: #""
-trendyol: #""
+trendyol: "https://www.trendyol.com/pd/bilgili-yayincilik/savas-ve-baris-p-194318554?boutiqueId=61&merchantId=126218&filterOverPriceListings=false"
 gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
 odatvkitap: #"https://www.odatvkitap.com.tr"
 bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"

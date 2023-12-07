@@ -18,7 +18,7 @@ publish-number: 30
 cover: "Karton"
 
 # Buyout Ecommerce
-dnr: #""
+dnr: "https://www.dr.com.tr/kitap/bir-seftali-bin-seftali/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0002087012001"
 kitapyurdu: #""
 idefix: #""
 hepsiburada: #""

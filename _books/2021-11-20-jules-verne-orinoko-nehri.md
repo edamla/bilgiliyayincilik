@@ -18,7 +18,7 @@ publish-number: 33
 cover: "Karton"
 
 # Buyout Ecommerce
-dnr: #""
+dnr: "https://www.dr.com.tr/kitap/orinoko-nehri/cocuk-ve-genclik/okul-cagi-6-10-yas/cocuk-klasik/urunno=0002087007001"
 kitapyurdu: #""
 idefix: #""
 hepsiburada: #""

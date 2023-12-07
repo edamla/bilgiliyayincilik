@@ -18,7 +18,7 @@ publish-number: 35
 cover: "Karton"
 
 # Buyout Ecommerce
-dnr: #""
+dnr: "https://www.dr.com.tr/kitap/on-bes-yasinda-bir-kaptan/cocuk-ve-genclik/okul-cagi-6-10-yas/cocuk-klasik/urunno=0002087010001"
 kitapyurdu: #""
 idefix: #""
 hepsiburada: #""

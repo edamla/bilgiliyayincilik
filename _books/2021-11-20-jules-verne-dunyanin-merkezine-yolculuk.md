@@ -18,7 +18,7 @@ publish-number: 22
 cover: "Karton"
 
 # Buyout Ecommerce
-dnr: #""
+dnr: "https://www.dr.com.tr/kitap/dunyanin-merkezine-yolculuk/cocuk-ve-genclik/okul-cagi-6-10-yas/cocuk-klasik/urunno=0002023593001"
 kitapyurdu: #""
 idefix: #""
 hepsiburada: #""

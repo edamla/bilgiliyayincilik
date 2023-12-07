@@ -18,7 +18,7 @@ publish-number: 2
 cover: "Karton"
 
 # Buyout Ecommerce
-dnr: #""
+dnr: "https://www.dr.com.tr/kitap/serguzest/edebiyat/roman/turk-klasik/urunno=0001960595001"
 kitapyurdu: #""
 idefix: #""
 hepsiburada: #""

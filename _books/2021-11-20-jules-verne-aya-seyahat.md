@@ -18,7 +18,7 @@ publish-number: 19
 cover: "Karton"
 
 # Buyout Ecommerce
-dnr: #""
+dnr: "https://www.dr.com.tr/kitap/aya-seyahat/edebiyat/roman/dunya-klasik/urunno=0002023587001"
 kitapyurdu: #""
 idefix: #""
 hepsiburada: #""

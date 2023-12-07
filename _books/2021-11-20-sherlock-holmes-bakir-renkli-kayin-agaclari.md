@@ -18,7 +18,7 @@ publish-number: 11
 cover: "Karton"
 
 # Buyout Ecommerce
-dnr: #""
+dnr: "https://www.dr.com.tr/kitap/sherlock-holmes-bakir-renkli-kayin-agaclari/sir-arthur-conan-doyle/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0002023588001"
 kitapyurdu: #""
 idefix: #""
 hepsiburada: #""

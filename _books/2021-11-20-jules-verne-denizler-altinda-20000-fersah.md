@@ -18,7 +18,7 @@ publish-number: 21
 cover: "Karton"
 
 # Buyout Ecommerce
-dnr: #""
+dnr: "https://www.dr.com.tr/kitap/denizler-altinda-20000-fersah/cocuk-ve-genclik/okul-cagi-6-10-yas/cocuk-klasik/urunno=0002023591001"
 kitapyurdu: #""
 idefix: #""
 hepsiburada: #""

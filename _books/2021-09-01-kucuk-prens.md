@@ -18,7 +18,7 @@ publish-number: 1
 cover: "Karton"
 
 # Buyout Ecommerce
-dnr: #""
+dnr: "https://www.dr.com.tr/kitap/kucuk-prens/cocuk-ve-genclik/okul-cagi-6-10-yas/cocuk-klasik/urunno=0001960660001"
 kitapyurdu: #""
 idefix: #""
 hepsiburada: #""

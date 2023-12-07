@@ -18,7 +18,7 @@ publish-number: 28
 cover: "Karton"
 
 # Buyout Ecommerce
-dnr: #""
+dnr: "https://www.dr.com.tr/kitap/kasagi-100-temel-eser/cocuk-ve-genclik/okul-cagi-6-10-yas/cocuk-klasik/urunno=0002086920001"
 kitapyurdu: #""
 idefix: #""
 hepsiburada: #""

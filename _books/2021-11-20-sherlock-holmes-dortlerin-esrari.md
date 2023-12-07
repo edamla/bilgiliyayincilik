@@ -18,7 +18,7 @@ publish-number: 10
 cover: "Karton"
 
 # Buyout Ecommerce
-dnr: #""
+dnr: "https://www.dr.com.tr/kitap/sherlock-holmes-dortlerin-esrari/sir-arthur-conan-doyle/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0002023592001"
 kitapyurdu: #""
 idefix: #""
 hepsiburada: #""

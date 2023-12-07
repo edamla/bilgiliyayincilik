@@ -18,7 +18,7 @@ publish-number: 34
 cover: "Karton"
 
 # Buyout Ecommerce
-dnr: #""
+dnr: "https://www.dr.com.tr/kitap/yuzen-sehir/cocuk-ve-genclik/okul-cagi-6-10-yas/cocuk-klasik/urunno=0002087008001"
 kitapyurdu: #""
 idefix: #""
 hepsiburada: #""

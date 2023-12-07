@@ -18,7 +18,7 @@ publish-number: 12
 cover: "Karton"
 
 # Buyout Ecommerce
-dnr: #""
+dnr: "https://www.dr.com.tr/kitap/sherlock-holmes-baskervillelerin-kopegi/sir-arthur-conan-doyle/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0002023590001"
 kitapyurdu: #""
 idefix: #""
 hepsiburada: #""

@@ -18,7 +18,7 @@ publish-number: 32
 cover: "Karton"
 
 # Buyout Ecommerce
-dnr: #""
+dnr: "https://www.dr.com.tr/kitap/iki-yil-okul-tatili/cocuk-ve-genclik/okul-cagi-6-10-yas/cocuk-klasik/urunno=0002087009001"
 kitapyurdu: #""
 idefix: #""
 hepsiburada: #""

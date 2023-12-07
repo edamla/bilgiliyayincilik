@@ -18,7 +18,7 @@ publish-number: 20
 cover: "Karton"
 
 # Buyout Ecommerce
-dnr: #""
+dnr: "https://www.dr.com.tr/kitap/balonla-bes-hafta/cocuk-ve-genclik/okul-cagi-6-10-yas/cocuk-klasik/urunno=0002023589001"
 kitapyurdu: #""
 idefix: #""
 hepsiburada: #""

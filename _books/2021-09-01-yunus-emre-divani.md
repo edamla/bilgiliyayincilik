@@ -18,7 +18,7 @@ publish-number: 6
 cover: "Karton"
 
 # Buyout Ecommerce
-dnr: #""
+dnr: "https://www.dr.com.tr/Kitap/Yunus-Emre-Divani/Edebiyat/Roman/Turk-Klasik/urunno=0001960658001"
 kitapyurdu: #""
 idefix: #""
 hepsiburada: #""

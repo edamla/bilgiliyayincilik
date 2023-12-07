@@ -20,7 +20,7 @@ cover: "Karton"
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/insan-neyle-yasar/edebiyat/roman/dunya-klasik/urunno=0002011731001"
 kitapyurdu: #""
-idefix: #""
+idefix: "https://www.idefix.com/insan-neyle-yasar-p-342498?vendorId=3"
 hepsiburada: #""
 trendyol: "https://www.trendyol.com/bilgili-yayincilik/insan-neyle-yasar-p-382808096?boutiqueId=61&merchantId=126218&filterOverPriceListings=false&sav=true"
 gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"

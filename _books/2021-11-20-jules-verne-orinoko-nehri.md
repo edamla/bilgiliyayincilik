@@ -20,7 +20,7 @@ cover: "Karton"
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/orinoko-nehri/cocuk-ve-genclik/okul-cagi-6-10-yas/cocuk-klasik/urunno=0002087007001"
 kitapyurdu: #""
-idefix: #""
+idefix: "https://www.idefix.com/orinoko-nehri-p-1284163?vendorId=3"
 hepsiburada: #""
 trendyol: #""
 gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"

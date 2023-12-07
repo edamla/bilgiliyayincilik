@@ -20,7 +20,7 @@ cover: "Karton"
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/savas-ve-baris/edebiyat/roman/dunya-klasik/urunno=0001960596001"
 kitapyurdu: #""
-idefix: #""
+idefix: "https://www.idefix.com/savas-ve-baris-p-322242?vendorId=3"
 hepsiburada: #""
 trendyol: "https://www.trendyol.com/pd/bilgili-yayincilik/savas-ve-baris-p-194318554?boutiqueId=61&merchantId=126218&filterOverPriceListings=false"
 gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"

@@ -20,7 +20,7 @@ cover: "Karton"
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/aya-seyahat/edebiyat/roman/dunya-klasik/urunno=0002023587001"
 kitapyurdu: #""
-idefix: #""
+idefix: "https://www.idefix.com/aya-seyahat-p-359889?vendorId=3"
 hepsiburada: #""
 trendyol: #""
 gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"

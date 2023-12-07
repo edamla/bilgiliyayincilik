@@ -20,7 +20,7 @@ cover: "Karton"
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/bir-seftali-bin-seftali/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0002087012001"
 kitapyurdu: #""
-idefix: #""
+idefix: "https://www.idefix.com/bir-seftali-bin-seftali-p-1284168?vendorId=3"
 hepsiburada: #""
 trendyol: #""
 gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"

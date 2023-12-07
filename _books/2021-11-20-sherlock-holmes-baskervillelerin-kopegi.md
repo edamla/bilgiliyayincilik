@@ -20,7 +20,7 @@ cover: "Karton"
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/sherlock-holmes-baskervillelerin-kopegi/sir-arthur-conan-doyle/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0002023590001"
 kitapyurdu: #""
-idefix: #""
+idefix: "https://www.idefix.com/sherlock-holmes-baskervillelerin-kopegi-p-359898?vendorId=3"
 hepsiburada: #""
 trendyol: #""
 gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"

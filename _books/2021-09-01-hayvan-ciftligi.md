@@ -20,7 +20,7 @@ cover: "Karton"
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/hayvan-ciftligi/edebiyat/roman/dunya-roman/urunno=0002011732001"
 kitapyurdu: #""
-idefix: #""
+idefix: "https://www.idefix.com/hayvan-ciftligi-p-342501?vendorId=3"
 hepsiburada: #""
 trendyol: "https://www.trendyol.com/pd/bilgili-yayincilik/hayvan-ciftligi-p-382807881?boutiqueId=61&merchantId=126218&filterOverPriceListings=false"
 gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"

@@ -20,7 +20,7 @@ cover: "Karton"
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/dunyanin-merkezine-yolculuk/cocuk-ve-genclik/okul-cagi-6-10-yas/cocuk-klasik/urunno=0002023593001"
 kitapyurdu: #""
-idefix: #""
+idefix: "https://www.idefix.com/dunyanin-merkezine-yolculuk-p-359908?vendorId=3"
 hepsiburada: #""
 trendyol: #""
 gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"

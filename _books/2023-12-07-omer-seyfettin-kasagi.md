@@ -20,7 +20,7 @@ cover: "Karton"
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/kasagi-100-temel-eser/cocuk-ve-genclik/okul-cagi-6-10-yas/cocuk-klasik/urunno=0002086920001"
 kitapyurdu: #""
-idefix: #""
+idefix: "https://www.idefix.com/kasagi-100-temel-eser-p-1284112?vendorId=3"
 hepsiburada: #""
 trendyol: #""
 gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"

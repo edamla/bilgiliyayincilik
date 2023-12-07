@@ -20,7 +20,7 @@ cover: "Karton"
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/denizler-altinda-20000-fersah/cocuk-ve-genclik/okul-cagi-6-10-yas/cocuk-klasik/urunno=0002023591001"
 kitapyurdu: #""
-idefix: #""
+idefix: "https://www.idefix.com/denizler-altinda-20000-fersah-p-359902?vendorId=3"
 hepsiburada: #""
 trendyol: #""
 gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
